@@ -17,7 +17,7 @@ body {
 .app-title{
   margin-top: 25px;
   margin-bottom: 25px;
-  font-size: 120px;
+  font-size: 200px;
   font-family: 'Bigelow Rules';
   color:#0ccac4;
 }
@@ -26,6 +26,7 @@ body {
   width: 90vw;
   margin: 100 auto;
   display: grid;
+  font-size: 10px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 50px;
   

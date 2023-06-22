@@ -8,7 +8,7 @@ import './App.css';
 
 const App = () => {
 
-  const [searchField, setSearchField] = useState('') // [1st value, is the value that we want to store, the 2sd setValue function]
+  const [searchField, setSearchField] = useState("") // [1st value, is the value that we want to store, the 2sd setValue function]
   const [monsters, setMonsters] = useState([])
   const [filterdMonsters, setFilterMonsters] = useState(monsters)
 
